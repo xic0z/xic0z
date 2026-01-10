@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-header-banner.png" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=FF69B4&height=200&section=header&text=Hey!%20I'm%20Francisco&fontSize=50&animation=fadeIn&fontAlignY=40" width="100%" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
       <p>🚧 <b>Status:</b> Sempre em desenvolvimento</p>
     </td>
     <td width="40%">
-      <img src="https://github-readme-stats.vercel.app/api?username=xic0z&show_icons=true&theme=rose&title_color=FF69B4&icon_color=FF69B4&text_color=FF69B4&bg_color=0d1117" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=TEU_USER_AQUI&show_icons=true&theme=rose&title_color=FF69B4&icon_color=FF69B4&text_color=FF69B4&bg_color=0d1117" width="100%" />
     </td>
   </tr>
 </table>
@@ -28,10 +28,10 @@
 ### 🌐 Conecta-te Comigo
 
 <p align="center">
-  <a href="TEU_LINK_AQUI"><img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="TEU_LINK_AQUI"><img src="https://img.shields.io/badge/Spotify-FF69B4?style=for-the-badge&logo=spotify&logoColor=white" /></a>
-  <a href="TEU_LINK_AQUI"><img src="https://img.shields.io/badge/Twitter-FF69B4?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="TEU_LINK_AQUI"><img src="https://img.shields.io/badge/TikTok-FF69B4?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="LINK_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="LINK_SPOTIFY"><img src="https://img.shields.io/badge/Spotify-FF69B4?style=for-the-badge&logo=spotify&logoColor=white" /></a>
+  <a href="LINK_TWITTER"><img src="https://img.shields.io/badge/Twitter-FF69B4?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="LINK_TIKTOK"><img src="https://img.shields.io/badge/TikTok-FF69B4?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 </p>
 
 ---
@@ -46,5 +46,5 @@
 
 ### 🐍 Jogo da Cobrinha
 <p align="center">
-  <img src="https://github.com/xic0z/xic0z/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
