@@ -16,7 +16,7 @@
       <p>🚧 </b> Sempre em desenvolvimento</p>
     </td>
     <td width="40%">
-      <img src="heart.png" width="50%" />
+      <img src="heart.png" width="50" />
     </td>
   </tr>
 </table>
