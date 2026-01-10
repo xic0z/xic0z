@@ -25,7 +25,7 @@
 
 ---
 
-### 🌐 Conecta-te Comigo
+### 🌐
 
 <p align="center">
   <a href="https://www.instagram.com/xic0z/"><img src="https://img.shields.io/badge/Instagram-FFB7C5?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -44,7 +44,7 @@
 
 ---
 
- ### 🐍 Jogo da Cobrinha
+ ### 🐍
 
 <p align="center">
 
