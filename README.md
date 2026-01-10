@@ -12,9 +12,8 @@
 <table border="0">
   <tr>
     <td width="60%">
-      <p>✨ <b>Atualmente:</b> A aprender a programar</p>
-      <p>🐞 <b>Foco:</b> Fazer os bugs desaparecerem (lentamente!)</p>
-      <p>🚧 <b>Status:</b> Sempre em desenvolvimento</p>
+      <p>✨ </b> A aprender a programar</p>
+      <p>🚧 </b> Sempre em desenvolvimento</p>
     </td>
     <td width="40%">
       <img src="https://github-readme-stats.vercel.app/api?username=xic0z&show_icons=true&theme=rose&title_color=FFB7C5&icon_color=FFB7C5&text_color=FFB7C5&bg_color=0d1117" width="100%" />
