@@ -9,16 +9,13 @@
 
 ### 🌸 Sobre Mim
 
-<table border="0">
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td style="border: 1px solid #d0d7de; border-radius: 6px; padding: 8px 12px;">
-       <p align="left" style="margin: 0;">
-         ▶️ <b>A aprender a programar<b>
-       </p>
+    <td style="border: 1px solid #d0d7de; border-radius: 6px 0 0 6px; padding: 5px 10px;">
+      <font color="#57606a">▶</font> <b>A aprender a programar</b>
     </td>
-    <td width="5"></td>
-    <td style="border: 1px solid #d0d7de; border-radius: 6px; padding: 8px;" align="center">
-       <img src="heart.png" width="20" style="display: block;" />
+    <td style="border: 1px solid #d0d7de; border-left: none; border-radius: 0 6px 6px 0; padding: 5px 10px;" align="center">
+      <img src="heart.png" width="16" />
     </td>
   </tr>
 </table>
