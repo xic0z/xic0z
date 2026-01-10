@@ -2,10 +2,6 @@
   <img src="github-header-banner(1).png" width="100%" />
 </p>
 
-<p align="center">
-  <img src="laco.png" width="700" />
-</p> 
-
 ---
 
 ### 🌸 Sobre Mim
