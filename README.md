@@ -16,7 +16,7 @@
       <p>🚧 </b> Sempre em desenvolvimento</p>
     </td>
     <td width="40%">
-      <img src="https://github-readme-stats.vercel.app/api?username=xic0z&show_icons=true&theme=rose&title_color=FFB7C5&icon_color=FFB7C5&text_color=FFB7C5&bg_color=0d1117" width="100%" />
+      <img src="heart.png" width="100%" />
     </td>
   </tr>
 </table>
