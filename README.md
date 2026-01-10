@@ -5,7 +5,6 @@
 <p align="center">
   <img src="lacinho.png" width="30" />
 </p>
----
 
 ### 🌸 Sobre Mim
 
