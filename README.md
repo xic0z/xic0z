@@ -12,7 +12,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 1px solid #d0d7de; border-radius: 6px 0 0 6px; padding: 5px 10px;">
-      <font color="#57606a">▶</font> <b>A aprender a programar</b>
+      <font color="#57606a">▶</font> <b> A aprender a programar</b>
     </td>
     <td style="border: 1px solid #d0d7de; border-left: none; border-radius: 0 6px 6px 0; padding: 5px 10px;" align="center">
       <img src="heart.png" width="16" />
