@@ -46,5 +46,5 @@
 
 ### 🐍 Jogo da Cobrinha
 <p align="center">
-  <img src="https://github.com/xic0z/xic0z/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/xic0z/xic0z/blob/output/github-contribution-grid-snake.svg" />
 </p>
