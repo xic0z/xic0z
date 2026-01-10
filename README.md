@@ -11,15 +11,14 @@
 
 <table border="0">
   <tr>
-    <td width="60%">
-      <p>✨ </b> A aprender a programar</p>
-      <p>🚧 </b> Sempre em desenvolvimento</p>
+    <td width="500">
+      <span>▶ <b>A aprender a programar</b> | 🚧 <b>Sempre em desenvolvimento</b></span>
     </td>
-    <td width="40%">
-      <img src="heart.png" width="50" />
+    <td border="1" width="40" height="40" align="center" style="border: 1.5px solid #FFB7C5; border-radius: 5px;">
+      <img src="heart.png" width="25" />
     </td>
   </tr>
-</table>
+</table> 
 
 ---
 
