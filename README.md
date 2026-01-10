@@ -23,7 +23,7 @@
 
 ---
 
-## 🎧 Lyrics that live rent free in my head
+## 😂
 
 <pre style="color:#FF69B4;">
 Woke up to n****s talkin' like me, talk  
