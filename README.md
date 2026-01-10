@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Design sem nome(5).png" width="100%" />
+  <img src="github-header-banner_1_-removebg-preview(2)(1).png" width="100%" />
 </p>
 
 <p align="center">
