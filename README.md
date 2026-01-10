@@ -11,14 +11,17 @@
 
 <table border="0">
   <tr>
-    <td width="500">
-      <span>▶ <b>A aprender a programar</b> </b></span>
+    <td style="border: 1px solid #d0d7de; border-radius: 6px; padding: 8px 12px;">
+       <p align="left" style="margin: 0;">
+         ▶️ <b>A aprender a programar</b>
+       </p>
     </td>
-    <td border="1" width="40" height="40" align="center" style="border: 1.5px solid #FFB7C5; border-radius: 5px;">
-      <img src="heart.png" width="25" />
+    <td width="5"></td>
+    <td style="border: 1px solid #d0d7de; border-radius: 6px; padding: 8px;" align="center">
+       <img src="heart.png" width="20" style="display: block;" />
     </td>
   </tr>
-</table> 
+</table>
 
 ---
 
