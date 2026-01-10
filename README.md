@@ -4,33 +4,47 @@
 
 ---
 
-## ☕ Learning to code  
-## 🐛 Making bugs disappear (slowly)  
-## 🚧 Work in progress  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20Drink/Beverage%20Box.png" width="25" /> <span style="color: #FF69B4;">Learning to code</span>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lady+Beetle.png" width="25" /> <span style="color: #FF69B4;">Making bugs disappear (slowly)</span>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Construction.png" width="25" /> <span style="color: #FF69B4;">Work in progress</span>
 
 ---
 
-## 🌐 Find me around here
+<h2 align="center" style="color: #FF69B4;">🌐 Find me around here</h2>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" style="filter: invert(41%) sepia(82%) saturate(4681%) hue-rotate(312deg) brightness(101%) contrast(101%);"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/letterboxd.svg" width="40" style="filter: invert(41%) sepia(82%) saturate(4681%) hue-rotate(312deg) brightness(101%) contrast(101%);"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" width="40" style="filter: invert(41%) sepia(82%) saturate(4681%) hue-rotate(312deg) brightness(101%) contrast(101%);"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" width="40" style="filter: invert(41%) sepia(82%) saturate(4681%) hue-rotate(312deg) brightness(101%) contrast(101%);"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/spotify.svg" width="40" style="filter: invert(41%) sepia(82%) saturate(4681%) hue-rotate(312deg) brightness(101%) contrast(101%);"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="40" style="filter: invert(41%) sepia(82%) saturate(4681%) hue-rotate(312deg) brightness(101%) contrast(101%);"/>
+  <a href="TEU_LINK_AQUI">
+    <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="TEU_LINK_AQUI">
+    <img src="https://img.shields.io/badge/Spotify-FF69B4?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+  <a href="TEU_LINK_AQUI">
+    <img src="https://img.shields.io/badge/Twitter-FF69B4?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="TEU_LINK_AQUI">
+    <img src="https://img.shields.io/badge/TikTok-FF69B4?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 😂
 
-<pre style="color:#FF69B4;">
+<pre>
+<code style="color: #FF69B4;">
 Woke up to n****s talkin' like me, talk  
 Woke up to n****s soundin' like me, talk  
 Woke up to n****s talkin' like me, talk
+</code>
 </pre>
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TEU_USER_AQUI&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF69B4&text_color=FF69B4&bg_color=0d1117" />
+</p>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
