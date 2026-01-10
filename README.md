@@ -13,7 +13,7 @@
   <tr>
     <td style="border: 1px solid #d0d7de; border-radius: 6px; padding: 8px 12px;">
        <p align="left" style="margin: 0;">
-         ▶️ <b>A aprender a programar</b>
+         ▶️ <b>A aprender a programar
        </p>
     </td>
     <td width="5"></td>
