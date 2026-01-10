@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xic0z/xic0z/main/banner.png" onerror="this.src='https://via.placeholder.com/1000x200/FF69B4/FFFFFF?text=FRANCISCO+CARVALHO'" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=FF69B4&height=200&section=header&text=Hey!%20I'm%20Francisco&fontSize=50&animation=fadeIn&fontAlignY=40" width="100%" />
 </p>
-
-<h1 align="center" style="color: #FF69B4;">🌸 Hey! I'm Francisco</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Learning+to+code...;Making+bugs+disappear;Work+in+progress+🚧" />
@@ -10,31 +8,43 @@
 
 ---
 
-### 🎀 Sobre Mim
+### 🌸 Sobre Mim
 
-* ✨ **Atualmente:** A aprender a programar em Braga.
-* 🐞 **Foco:** Resolver bugs (com calma).
-* 🚧 **Status:** Em construção.
+<table border="0">
+  <tr>
+    <td width="60%">
+      <p>✨ <b>Atualmente:</b> A aprender a programar</p>
+      <p>🐞 <b>Foco:</b> Fazer os bugs desaparecerem (lentamente!)</p>
+      <p>🚧 <b>Status:</b> Sempre em desenvolvimento</p>
+    </td>
+    <td width="40%">
+      <img src="https://github-readme-stats.vercel.app/api?username=TEU_USER_AQUI&show_icons=true&theme=rose&title_color=FF69B4&icon_color=FF69B4&text_color=FF69B4&bg_color=0d1117" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🌐 Social
+### 🌐 Conecta-te Comigo
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spotify-FF69B4?style=for-the-badge&logo=spotify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Twitter-FF69B4?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="LINK_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="LINK_SPOTIFY"><img src="https://img.shields.io/badge/Spotify-FF69B4?style=for-the-badge&logo=spotify&logoColor=white" /></a>
+  <a href="LINK_TWITTER"><img src="https://img.shields.io/badge/Twitter-FF69B4?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="LINK_TIKTOK"><img src="https://img.shields.io/badge/TikTok-FF69B4?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 </p>
 
 ---
 
-### 😂
+### 😂 Um pouco de humor
 
-> <pre style="color: #FF69B4;">Woke up to n****s talkin' like me, talk</pre>
+> <code style="color: #FF69B4;">Woke up to n****s talkin' like me, talk</code><br>
+> <code style="color: #FF69B4;">Woke up to n****s soundin' like me, talk</code><br>
+> <code style="color: #FF69B4;">Woke up to n****s talkin' like me, talk</code>
 
 ---
 
-### 🐍 Snake Game
+### 🐍 Jogo da Cobrinha
 <p align="center">
-  <img src="https://github.com/xic0z/xic0z/raw/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
