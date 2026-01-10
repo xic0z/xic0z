@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=1000&color=FFB7C5&center=true&vCenter=true&width=700&lines=Learning+to+code...;Making+bugs+disappear;Work+in+progress+🚧" />
-</p>
+  <img src="laco.png" width="700" />
+</p> 
 
 ---
 
