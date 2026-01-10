@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="lacinho.png" width="700" />
+  <img src="laco.png" width="30" />
 </p>
 ---
 
