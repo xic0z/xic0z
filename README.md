@@ -6,7 +6,6 @@
   <img src="lacinho.png" width="30" />
 </p>
 
-### 🌸 Sobre Mim
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
