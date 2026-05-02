@@ -4,7 +4,7 @@
 
 **francisco carvalho**
 
-🎓 eng. informática · uminho &nbsp;·&nbsp; 📍 braga &nbsp
+🎓 eng. informática · uminho &nbsp;·&nbsp; 📍 braga
 
 <br>
 
