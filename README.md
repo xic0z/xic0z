@@ -2,9 +2,7 @@
 
 <br>
 
-**francisco carvalho**
-
-🎓 eng. informática · uminho &nbsp;·&nbsp; 📍 braga
+🎓 Eng. informática · UMinho &nbsp;·&nbsp; 📍 Braga
 
 <br>
 
