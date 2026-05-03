@@ -2,7 +2,7 @@
 
 <br>
 
-🎓 Eng. informática · UMinho &nbsp;·&nbsp; 📍 Braga
+🎓 Eng. Informática · UMinho &nbsp;·&nbsp; 📍 Braga
 
 <br>
 
