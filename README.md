@@ -2,8 +2,7 @@
 
 <br>
 
-🎓 Eng. Informática · UMinho
-
+HEY
 <br>
 
 <a href="https://www.instagram.com/xic0z/"><img src="https://img.shields.io/badge/Instagram-FFB7C5?style=for-the-badge&logo=instagram&logoColor=white" /></a>
