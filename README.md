@@ -2,7 +2,7 @@
 
 <br>
 
-# Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" height="40" alt="wave">
+<h1>Hi <img src="https://raw.githubusercontent.com/t3nshi/t3nshi/main/assets/bow.gif" width="30px"></h1>
 
 <br>
 
