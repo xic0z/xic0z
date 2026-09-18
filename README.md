@@ -2,7 +2,7 @@
 
 <br>
 
-<h1>Hi <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXMxa2l0Nm42ZnF6ZXN2YXhkeXZyb25mdG13bnp0eGJybWZubDFrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/43LzRscxS9fVvY2XQG/giphy.gif" width="32px"></h1>
+<h1>Hi <img src="lacinho.png" width="25px"></h1>
 
 <br>
 
