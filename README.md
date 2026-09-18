@@ -2,7 +2,7 @@
 
 <br>
 
-ღ HI
+# Hi <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHc3eDFmdWd5ZnQ4Z2QyZ3dzOW13bXpxZXR6bmE1eGpwYWRmdWFiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Wp75uOcl2dIasMioyB/giphy.gif" width="30px">
 <br>
 
 <a href="https://www.instagram.com/xic0z/"><img src="https://img.shields.io/badge/Instagram-FFB7C5?style=for-the-badge&logo=instagram&logoColor=white" /></a>
