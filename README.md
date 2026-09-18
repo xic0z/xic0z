@@ -2,7 +2,7 @@
 
 <br>
 
-<h1> <img src="Kylie Jenner Stan Twitter GIF.gif" width="100px"></h1>
+<h1> <img src="Kylie Jenner Stan Twitter GIF.gif" width="200px"></h1>
 
 <br>
 
