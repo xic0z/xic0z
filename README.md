@@ -2,7 +2,7 @@
 
 <br>
 
-# Hi <img src="https://media.giphy.com/media/LpDmM2w9a46AyfWXTy/giphy.gif" width="28px">
+# Hi <img src="https://raw.githubusercontent.com/t3nshi/t3nshi/main/assets/heart.gif" width="30px">
 
 <br>
 
