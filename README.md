@@ -2,7 +2,7 @@
 
 <br>
 
-# Hi ![👋](https://raw.githubusercontent.com/xic0z/xic0z/main/images/wave.gif)
+# Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" height="40" alt="wave">
 
 <br>
 
