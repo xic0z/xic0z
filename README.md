@@ -2,7 +2,7 @@
 
 <br>
 
-# Hi <img src="https://raw.githubusercontent.com/MartinLaxe/MartinLaxe/main/assets/space.gif" width="35px">
+# Hi <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0MmxzcWZxb3AzaWF6MnJubG1qcnN2YWpsb24wcTFxb2E5dWdvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kKff5kP6I07qg9c51a/giphy.gif" width="35px">
 
 <br>
 
